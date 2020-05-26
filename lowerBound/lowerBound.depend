@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587826144 source:c:\users\nilesh hazra\documents\codeblocks projects\lowerbound\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588439016 source:c:\users\nilesh hazra\documents\codeblocks projects\deque\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
